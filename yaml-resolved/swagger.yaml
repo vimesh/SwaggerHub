@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   description: "This is a sample Petstore server.  You can find \nout more about Swagger\
-    \ at changes test test\n[http://swagger.io](http://swagger.io) or on \n[irc.freenode.net,\
+    \ at changes test test test\n[http://swagger.io](http://swagger.io) or on \n[irc.freenode.net,\
     \ #swagger](http://swagger.io/irc/).\n"
   version: 1.0.0
   title: Swagger Petstore
